@@ -1,1 +1,1 @@
-# Paint Store
+# Paint Store Project
